@@ -4,11 +4,10 @@ Use API to fetch data of diferent cases.
 
 ## Tools used : Material UI, CSS, JSX, React JS
 
-# Getting Started with Create React App
+### Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
