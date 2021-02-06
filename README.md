@@ -1,8 +1,9 @@
-## Covid-19 meter app
-We can see the covid total cases , recovered cases and death # Globally and # Country wise.
+##  Covid-19 meter app
+We can see the covid total cases , recovered cases and death  Globally and Country wise.
 Use API to fetch data of diferent cases.
 
-## Tools used : Material UI, CSS, JSX, React JS
+###  Tools used :
+Material UI, CSS, JSX, React JS
 
 ### Getting Started with Create React App
 
